@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   base: '/',
   title: "Utapoi",
-  description: "Karaoke straight to your screen.",
+  description: "The ultimate karaoke experience.",
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },

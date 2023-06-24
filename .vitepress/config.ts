@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: 'utapoi.github.io',
+  base: 'utapoi.com',
   title: "Utapoi",
   description: "Karaoke straight to your screen.",
   themeConfig: {
